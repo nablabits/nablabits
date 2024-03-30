@@ -4,7 +4,7 @@ Massive data nerd with an interesting mix of intensity, code and, sometimes, mac
 
 - 👪 Happy member of the [ZeroDeposit family](https://github.com/ZeroDeposit) relocating nasty chores done by humans onto machines.
 - 🛠️ Currently building a LLM-based semantic search engine in my spare time.
-- 🐌 Trying to be consistent open source collaborations.
+- 🐌 Trying to be consistent in open source collaborations.
 - 💕 If you love life, life will love you back.
 
 Something I:
