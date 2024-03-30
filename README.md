@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, it's 𝛁bits 👋
 
-<!--
-**nablabits/nablabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Massive data nerd with an interesting mix of intensity, code and, sometimes, machine learning.
 
-Here are some ideas to get you started:
+- 👪 Happy member of the [ZeroDeposit family](https://github.com/ZeroDeposit) relocating nasty chores done by humans onto machines.
+- 🛠️ Currently building a LLM-based semantic search engine in my spare time.
+- 🐌 Trying to be consistent open source collaborations.
+- 💕 If you love life, life will love you back.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Something I:
+- 🕵️ **Researched:** in the [agile optimization](https://github.com/nablabits/agile-optimization) repository I explored whether it's possible to get the right number of stories for a given sprint if only you know how well you are performing.
+- 📖 **Recently learned:** in the [grid estimation](https://github.com/nablabits/cuda-grid-estimation) repository I learned the basics of CUDA programming with an easy algorithm based on the [Think Bayes](https://github.com/nablabits/ThinkBayes2/blob/master/notebooks/13-inference.ipynb) book.
+- ✨ **Am really proud of:** in the [fareharbor webhook](https://github.com/nablabits/fareharbor-webhook) repository I built a webhook to process all the events of a booking engine which was the key part of a business intelligence dashboard I designed for a project I worked with.
+- ⭐ **Am a huge fan of:** productivity and [self quantification.](https://quantifiedself.com/)
