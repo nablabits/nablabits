@@ -3,9 +3,9 @@
 Massive data nerd with an interesting mix of intensity, code and, sometimes, machine learning.
 
 - 👪 Happy member of the [ZeroDeposit family](https://github.com/ZeroDeposit) relocating nasty chores done by humans onto machines.
-- 🛠️ Currently building a LLM-based semantic search engine in my spare time.
+- 🛠️ Currently building a LLM-based semantic search engine on top of [chromadb](https://github.com/chroma-core/chroma), [mistral](https://github.com/mistralai/mistral-src) and some other bits and pieces in my spare time.
 - 🐌 Trying to be consistent in open source collaborations.
-- 💕 If you love life, life will love you back.
+- 💭 [Good bayesian aspirant](https://www.preposterousuniverse.com/blog/2016/05/09/big-picture-part-two-understanding/): the importance of knowing the truth over being right all along.
 
 Something I:
 - 🕵️ **Researched:** in the [agile optimization](https://github.com/nablabits/agile-optimization) repository I explored whether it's possible to get the right number of stories for a given sprint if only you know how well you are performing.
