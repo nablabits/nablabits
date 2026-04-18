@@ -3,7 +3,7 @@
 Massive data nerd with an interesting mix of intensity, code and, sometimes, machine learning.
 
 - 👪 Happy member of the [ZeroDeposit family](https://github.com/ZeroDeposit) relocating nasty chores done by humans onto machines.
-- 🛠️ Currently building a pre-commit script for my beloved [obsidian](https://obsidian.md/) to reduce the overhead and increase the consistency in my productivity system.
+- 🤖 Delegating the bureaucracy of a decade-long productivity system to Claude, one agentic workflow at a time.
 - 🐌 Trying to be consistent in open source collaborations.
 - 💭 [Good bayesian aspirant](https://www.preposterousuniverse.com/blog/2016/05/09/big-picture-part-two-understanding/): the importance of knowing the truth over being right all along.
 
